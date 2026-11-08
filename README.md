@@ -1,46 +1,20 @@
-<h1 align="center">Merhaba, ben Alya 👋</h1>
+# Alya
 
-<h3 align="center">Yazılım Geliştirici · Amsterdam, NL</h3>
+Yazılım geliştirici, Amsterdam.
 
-<p align="center">
-  <em>Kod yazıyor, ürünler inşa ediyor, sürekli öğreniyorum.</em>
-</p>
+Şu anda Python ve modern web teknolojileri üzerine çalışıyorum; ürün odaklı araçlar geliştirmeyi ve açık kaynak projelerde yer almayı seviyorum.
 
----
+## Odak alanlarım
 
-### 🚀 Hakkımda
+- Python ve backend geliştirme
+- Web uygulamaları
+- Ürün prototipleri ve otomasyon
+- Açık kaynak
 
-- 🔭 Şu anda **Python** ve modern web teknolojileriyle ilgileniyorum
-- 🌱 Sürekli yeni araçlar, framework’ler ve açık kaynak projeler öğreniyorum
-- 💬 Bana şunlar hakkında yazabilirsiniz: **Python, yazılım geliştirme, açık kaynak, ürün geliştirme**
-- 📫 Bana ulaşmak için: GitHub üzerinden mesaj bırakabilirsiniz
+## Öne çıkan proje
 
----
+- [LLS](https://github.com/alya-mini/LLS) — Python tabanlı projem.
 
-### 🛠️ Teknolojiler
+## İletişim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,github,docker,linux,vscode" alt="Tech stack" />
-</p>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alya-mini&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alya-mini&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-### 🔗 Beni bulun
-
-<p align="center">
-  <a href="https://github.com/alya-mini">
-    <img src="https://img.shields.io/badge/GitHub-alya--mini-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+GitHub üzerinden ulaşabilirsiniz: [@alya-mini](https://github.com/alya-mini)
